@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.headerImg {
+  width: 200px;
+  height: 100px;
+}
